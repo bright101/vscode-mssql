@@ -3,7 +3,7 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-import { Event, Disposable } from 'vscode';
+import { Quantum } from 'vscode';
 import { ISlickRange, IResultsConfig, ResultSetSubset, ISelectionData } from './models/interfaces';
 import { TelemetryActions, TelemetryViews } from './telemetry/telemetryInterfaces';
 
